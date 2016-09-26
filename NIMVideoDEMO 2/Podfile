@@ -1,0 +1,4 @@
+platform :ios, '7.0'
+
+pod 'NIMSDK' ,'~>2.9.0'
+
